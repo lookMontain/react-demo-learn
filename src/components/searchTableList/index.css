@@ -1,0 +1,13 @@
+*{
+    text-align: left;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.tableList{
+    width: 300px;
+    text-align: center;
+}
